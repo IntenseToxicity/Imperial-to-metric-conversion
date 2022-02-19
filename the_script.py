@@ -1,6 +1,5 @@
 """
-Name: James Dandy
-Student ID: A00046956
+Name: InsanityNet
 Last Date Edited: 18-Feb-2022
 
 Description:
